@@ -24,7 +24,7 @@ public class Main {
 			
 		}
 
-		// Tüm sayfalar için kullanılan ortak bir durum için kullanılan class
+		//Tüm sayfalar için kullanılan ortak bir durum için kullanılan class
 		CourseManager courseManager = new CourseManager();
 		courseManager.devambitir(course1);
 		courseManager.oncekiders(course2);

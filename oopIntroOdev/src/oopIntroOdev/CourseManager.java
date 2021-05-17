@@ -1,6 +1,6 @@
 package oopIntroOdev;
 
-public class CourseManager { //İş yapan nesne
+public class CourseManager {//İş yapan nesne
 	
 public void devambitir(Course course) {
 		
