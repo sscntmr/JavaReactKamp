@@ -20,10 +20,6 @@ public class Course {
 		this.programadi = programadi; 
 		this.izlemeyuzdesi =izlemeyuzdesi;
 		this.egitmenadi =egitmenadi ;
-		
-		
-
 	}
-
 
 }

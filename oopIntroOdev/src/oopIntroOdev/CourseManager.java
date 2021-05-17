@@ -1,6 +1,6 @@
 package oopIntroOdev;
 
-public class CourseManager { //Ýþ yapan nesne
+public class CourseManager {
 	
 public void devambitir(Course course) {
 		
@@ -10,6 +10,7 @@ public void devambitir(Course course) {
 public void oncekiders(Course course) {
 	
 	System.out.print(" ÖncekiDers --> ");
-}
 
+
+}
 }

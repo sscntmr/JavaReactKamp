@@ -3,8 +3,6 @@ package oopIntroOdev;
 public class Main {
 
 	public static void main(String[] args) {
-		
-	
 		Course course1=new Course();
 		
 	    course1.egitmenadi="Engin Demiroğ";
@@ -27,8 +25,8 @@ public class Main {
 		CourseManager courseManager = new CourseManager();
 		courseManager.devambitir(course1);
 		courseManager.oncekiders(course2);
-		
-		
+
+
 	}
 
 }
