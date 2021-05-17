@@ -14,7 +14,6 @@ public class Main {
 		
 		Course course2= new Course("Engin Demiroğ",43,"C#");
 		
-		
 	
 		//Tüm kursları gezmesi için foreach kullandık
 		Course[] courses= {course1,course2};
@@ -29,7 +28,6 @@ public class Main {
 		courseManager.devambitir(course1);
 		courseManager.oncekiders(course2);
 		
-
 		
 	}
 

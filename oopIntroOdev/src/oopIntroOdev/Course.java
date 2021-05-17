@@ -7,8 +7,10 @@ public class Course {
 	String egitmenadi;
 
 	public Course() { //Constructor bloktur ve classýn geçerli olabilmesi için gereklidir.
+		
 		//System.out.println("Ben çalýþtým");
-		}
+		
+}
 	
 	public Course( String programadi, int  izlemeyuzdesi, String egitmenadi){
 	
@@ -22,9 +24,6 @@ public class Course {
 		
 
 	}
-
-
-
 
 
 }
