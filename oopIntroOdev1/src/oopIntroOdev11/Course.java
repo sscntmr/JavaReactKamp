@@ -1,7 +1,7 @@
-package oopIntroOdev;
+package oopIntroOdev11;
 
 public class Course {
-	
+
 	String programadi; 
 	int izlemeyuzdesi;
 	String egitmenadi;
@@ -20,6 +20,7 @@ public class Course {
 		this.programadi = programadi; 
 		this.izlemeyuzdesi =izlemeyuzdesi;
 		this.egitmenadi =egitmenadi ;
-	}
+		
 
+}
 }
