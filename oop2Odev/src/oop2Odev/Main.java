@@ -12,7 +12,7 @@ public class Main {
 
 		Instructor instructor = new Instructor();
 		instructor.name = "Engin";
-		instructor.surname = "Görel";
+		instructor.surname = "Demirog";
 		instructor.givenlesson_name = "Java";
 		instructor.email = "engindemirog@gmail.com";
 
