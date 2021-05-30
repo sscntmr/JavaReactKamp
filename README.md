@@ -1,2 +1,2 @@
 # JavaReactKamp
-  Yazılım Geliştirici Yetiştirme Kampı
+ Yazılım Geliştirici Yetiştirme Kampı
